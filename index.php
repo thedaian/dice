@@ -16,7 +16,7 @@ td {
 <body>
 <h1><a href="index.php">Die Roll Example</a></h1>
 <form method="POST">
-<input name="dice_string" type="text" value="2d6 + 3d8" />
+<input name="dice_string" type="text" value="" />
 <input type="submit" value="Roll!" />
 </form>
 <!--<form method="POST">
